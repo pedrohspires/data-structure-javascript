@@ -1,0 +1,24 @@
+{
+  "name": "data-structure-javascript",
+  "version": "1.0.0",
+  "description": "Estruturas de dados e algoritmos feitos em JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrohspires/data-structure-javascript.git"
+  },
+  "keywords": [
+    "structures",
+    "algorithms",
+    "javascript"
+  ],
+  "author": "Pedro Pires",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/pedrohspires/data-structure-javascript/issues"
+  },
+  "homepage": "https://github.com/pedrohspires/data-structure-javascript#readme"
+}
